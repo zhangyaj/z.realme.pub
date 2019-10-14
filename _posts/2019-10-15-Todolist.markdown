@@ -10,12 +10,23 @@ tags:
     - List
 ---
 
-### 19年10月14日 [Todo 列表](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#13-待办事宜-todo-列表)
-## 工作
+## 19年10月15日 [Todo 列表](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#13-待办事宜-todo-列表)
+### 工作
+- [ ] 红米8和8A/9pro开售相关事项（力度、玩法、流程、搜索露出）
+- [ ] 小米力度争取、1号打法；
+- [ ] 新品券提报
+- [ ] 其他临时性工作
+- [ ] 线上线下底价对比和线上线下操作场景
+### 其他
+- [ ] 输出一篇文章，主题任何都行
+
+## 19年10月14日 [Todo 列表](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#13-待办事宜-todo-列表)
+### 工作
 - [x] 红米8和8A预约相关事项（力度、玩法、流程、搜索露出）
 - [x] 竞对乱价，免息事项：耗费太多精力和心情，后期在这种事情上不纠缠；
 - [x] 滚动7天日销：每周一的日常
 - [x] 线上线下底价对比和线上线下操作场景
 - [x] 工厂力度争取：小米9 6+128G吃券200，到手价2399,其他型号继续争取
-## 其他
+- [x] 资金、新品负卖事项
+### 其他
 - [x] 联系福大老师（中移招聘）
