@@ -18,7 +18,7 @@ tags:
 - [ ] 其他临时性工作
 - [ ] 线上线下底价对比和线上线下操作场景
 ### 其他
-- [ ] 输出一篇文章，主题任何都行
+- [x] 输出一篇文章，主题任何都行:老文章-新零售低价高效数据附能之路
 
 ## 19年10月14日 [Todo 列表](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#13-待办事宜-todo-列表)
 ### 工作
