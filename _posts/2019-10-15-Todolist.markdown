@@ -4,7 +4,7 @@ title:      "我干了什么究竟拿时间换了什么？"
 subtitle:   "记录每一天"
 date:       2019-10-15 00:00:04
 author:     "Yajie"
-header-img: "img/post-bg-apple-event-2015.jpg"
+header-img: "img/post-bg-alitrip.jpg"
 tags:
     - Todo
     - List
