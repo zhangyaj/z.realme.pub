@@ -9,16 +9,29 @@ tags:
     - Todo
     - List
 ---
+# 19年10月18日 [Todo 列表](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#13-待办事宜-todo-列表)
+### 工作
+- [X] 确定预售单品:小米9 6+128 Note5a 官旗提报型号看周一情况待定
+- [X] 官旗提报型号，初步提货
+- [X] 芒果TV口播选品:CC9美图
+- [X] 加强疫苗
 
-## 19年10月15日 [Todo 列表](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#13-待办事宜-todo-列表)
+## 19年10月17日 [Todo 列表](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#13-待办事宜-todo-列表)
+### 工作
+- [X] 确定预售单品:小米9 6+128 Note5a 官旗提报型号看周一情况待定
+- [X] CC9和9se大单:9Se可操作
+- [X] 资金初版:共需要4800万
+- [X] 合同和电商输出协议推进
+
+## 19年10月16日 [Todo 列表](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#13-待办事宜-todo-列表)
 ### 工作
 - [ ] 规划暗券操作、单品券打法
-- [ ] 盘货，7a提货
-- [ ] 资金提报
-- [ ] 大单盘算
+- [X] 盘货，7a提货
+- [X] 资金提报
+- [X] 大单盘算
 ### 其他
-- [ ] 学习整理PWA
-- [ ] 打疫苗
+- [X] 学习整理PWA:学习三个课时，初步了解
+- [ ] 打疫苗:未打
 
 ## 19年10月15日 [Todo 列表](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#13-待办事宜-todo-列表)
 ### 工作
