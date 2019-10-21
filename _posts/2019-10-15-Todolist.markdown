@@ -11,11 +11,11 @@ tags:
 ---
 ## 19年10月22日 [Todo 列表](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#13-待办事宜-todo-列表)
 ### 工作
-- [] 销售跟进
-- [] 预售单品提报（可再规划1-2款滞销机清理）
-- [] CC9大单跟进
-- [] 7A和K20补贴邮件跟进
-- [] 资金和盘货
+- [ ] 销售跟进
+- [ ] 预售单品提报（可再规划1-2款滞销机清理）
+- [ ] CC9大单跟进
+- [ ] 7A和K20补贴邮件跟进
+- [ ] 资金和盘货
 ## 19年10月21日 [Todo 列表](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#13-待办事宜-todo-列表)
 ### 工作
 - [X] 滚动7天销售
