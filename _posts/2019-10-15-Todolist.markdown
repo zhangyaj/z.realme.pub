@@ -9,7 +9,17 @@ tags:
     - Todo
     - List
 ---
-# 19年10月18日 [Todo 列表](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#13-待办事宜-todo-列表)
+## 19年10月21日 [Todo 列表](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#13-待办事宜-todo-列表)
+### 工作
+- [X] 滚动7天销售
+- [] S+单品提报
+- [] 预售选品(京东和官旗提报对标)
+- [] 资金和盘货
+- [] 24-25打法规划
+- [] 资金和盘货
+
+
+## 19年10月18日 [Todo 列表](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#13-待办事宜-todo-列表)
 ### 工作
 - [X] 确定预售单品:小米9 6+128 Note5a 官旗提报型号看周一情况待定
 - [X] 官旗提报型号，初步提货
