@@ -9,14 +9,21 @@ tags:
     - Todo
     - List
 ---
+## 19年10月22日 [Todo 列表](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#13-待办事宜-todo-列表)
+### 工作
+- [] 销售跟进
+- [] 预售单品提报（可再规划1-2款滞销机清理）
+- [] CC9大单跟进
+- [] 7A和K20补贴邮件跟进
+- [] 资金和盘货
 ## 19年10月21日 [Todo 列表](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#13-待办事宜-todo-列表)
 ### 工作
 - [X] 滚动7天销售
-- [] S+单品提报
-- [] 预售选品(京东和官旗提报对标)
-- [] 资金和盘货
-- [] 24-25打法规划
-- [] 资金和盘货
+- [X] S+单品提报
+- [X] 预售选品(京东和官旗提报对标)
+- [X] 24-25打法规划:同期缺口较大
+- [X] 资金和盘货:资金已支付、22号盘货下单
+- [X] CC9提货规划确认，等工厂输出
 
 
 ## 19年10月18日 [Todo 列表](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#13-待办事宜-todo-列表)
