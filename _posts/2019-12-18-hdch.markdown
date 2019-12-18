@@ -19,6 +19,4 @@ tags:
 - [ ] 资金和盘货
 
 ### 7.Markdown嵌套视频(厉害了)
-<video id="video" controls="" preload="none" poster="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.jpg">
-<source id="mp4" src="https://v.qq.com/x/cover/rjae621myqca41h/i0032qxbi2v.html?ptag=360kan.tv.pay">
-</video>
+<iframe src="//player.bilibili.com/player.html?aid=79626589&cid=136235300&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
