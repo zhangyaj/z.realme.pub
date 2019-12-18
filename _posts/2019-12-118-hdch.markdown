@@ -1,1 +1,19 @@
-
+---
+layout:     post
+title:      "运营学习之活动策划"
+subtitle:   "记录每一天"
+date:       2019-12-18 22:04:04
+author:     "Yajie"
+header-img: "img/post-bg-alitrip.jpg"
+tags:
+    - 运营
+    - 学习
+    - 涨知识
+---
+## 19年10月22日 [Todo 列表](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#13-待办事宜-todo-列表)
+### 工作
+- [ ] 销售跟进
+- [ ] 预售单品提报（可再规划1-2款滞销机清理）
+- [ ] CC9大单跟进
+- [ ] 7A和K20补贴邮件跟进
+- [ ] 资金和盘货
